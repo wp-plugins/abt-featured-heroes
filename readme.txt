@@ -1,4 +1,4 @@
-=== ABT-Featured Heroes	 ===
+=== Featured Heroes Slideshow ===
 Contributors: atlanticbt, zaus, heyoka
 Donate link: http://atlanticbt.com
 Tags: heroes, slides, slideshow, hero slider, featured, featured slides, featured heroes, cycle, jQuery cycle
@@ -100,6 +100,10 @@ Suggestions/improvements welcome!
 2. Same slideshow as #1, but 'thumbnail' style instead (notice how nav images scaled); also pointing out some issues to remember when setting up
 
 == Changelog ==
+
+= 0.2.1 =
+
+* Name change for clarity
 
 = 0.2 =
 

@@ -1,16 +1,17 @@
 <?php
 /*
 
-Plugin Name: ABT-Featured Heroes
+Plugin Name: Featured Heroes Slideshow
 Plugin URI: http://atlanticbt.com/blog/wordpress-plugin-featured-heroes-slideshow
 Description: Slideshow of custom Posts
 Author: atlanticbt, zaus, heyoka
-Version: 0.2
+Version: 0.2.1
 Author URI: http://atlanticbt.com
 Changelog:
 	0.1.0 - split from Snapsite core
 	0.1.1 - encapsulated "featured content", added shortcode
  	0.2 - cleanup, query change, template reconfigure
+	0.2.1 - namechange for clarity
 
 */
 
@@ -22,7 +23,7 @@ require_once('abt_featured_content.class.php');
  */
 class abt_featured_heroes extends abt_featured_content {
 	
-	const VERSION = '0.2';
+	const VERSION = '0.2.1';
 	
 	public function __construct(){
 		//call base with appropriate parameters
