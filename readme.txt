@@ -27,6 +27,10 @@ One of the options `postType` allows you to use other content than the provided 
 
 == Frequently Asked Questions ==
 
+= How do I insert an image? =
+
+Set the image you wish to use as the featured image for your Hero
+
 = What is the shortcode? =
 
 Use the following format (defaults indicated here):
@@ -100,6 +104,10 @@ Suggestions/improvements welcome!
 2. Same slideshow as #1, but 'thumbnail' style instead (notice how nav images scaled); also pointing out some issues to remember when setting up
 
 == Changelog ==
+
+= 0.2.3 =
+
+* Additional Documentation
 
 = 0.2.1 =
 
